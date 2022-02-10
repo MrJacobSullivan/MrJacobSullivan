@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **TypeScript!**
 
-- 👨‍💻 All of my projects are available at [jacobsullivan.dev/work](https://jacobsullivan.dev/work).
+- 👨‍💻 All of my projects are available at <a href="https://jacobsullivan.dev/work" target="_blank" rel="noopener noreferrer" >jacobsullivan.dev/work</a>.
 
 - 💬 Ask me about **how I like to manage state in React**.
 
 - 📫 How to reach me **mrjacobsullivan@gmail.com**.
 
-- 📄 Know about my experiences [jacobsullivan.dev/resume](https://jacobsullivan.dev/resume).
+- 📄 Know about my experiences <a href="https://jacobsullivan.dev/resume" target="_blank" rel="noopener noreferrer" >jacobsullivan.dev/resume</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
