@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **TypeScript!**
 
-- 👨‍💻 All of my projects are available at [jacobsullivan.dev/work](jacobsullivan.dev/work).
-
-- 📝 I regularly write articles on [jacobsullivan.dev/blog](jacobsullivan.dev/blog).
+- 👨‍💻 All of my projects are available at [jacobsullivan.dev/work](https://jacobsullivan.dev/work).
 
 - 💬 Ask me about **how I like to manage state in React**.
 
 - 📫 How to reach me **mrjacobsullivan@gmail.com**.
 
-- 📄 Know about my experiences [jacobsullivan.dev/resume](jacobsullivan.dev/resume).
+- 📄 Know about my experiences [jacobsullivan.dev/resume](https://jacobsullivan.dev/resume).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
