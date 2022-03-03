@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript!**
 
-- 👨‍💻 All of my projects are available at <a href="https://jacobsullivan.dev/work" target="_blank" rel="noopener noreferrer" >jacobsullivan.dev/work</a>.
-
 - 💬 Ask me about **how I like to manage state in React**.
 
 - 📫 How to reach me **mrjacobsullivan@gmail.com**.
